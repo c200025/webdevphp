@@ -1,3 +1,4 @@
 # 変更履歴
 
-・ver.0.00 2021-04-02 Fri. first commit
+	・vre.0.10 2021-05-05 Wed. .gitignore追加
+	・ver.0.00 2021-04-02 Fri. first commit
